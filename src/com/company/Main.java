@@ -18,8 +18,8 @@ public class Main {
         Coche coche6 = new Coche("F789", 4, false, "C");
         Microbus microbus = new Microbus("G123", 21);
         Camion camion = new Camion("H456", 18);
-        Furgoneta furgoneta1 = new Furgoneta("I789", 2, true);
-        Furgoneta furgoneta2 = new Furgoneta("J123", 4, false);
+        Furgoneta furgoneta1 = new Furgoneta("I789", 2, 200 );
+        Furgoneta furgoneta2 = new Furgoneta("J123", 4, 233);
 
         List<Vehiculo> vehiculos = new ArrayList<>();
 

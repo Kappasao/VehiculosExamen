@@ -4,6 +4,7 @@ public class Transporte extends Vehiculo {
 
     protected int plazas;
 
+
     public Transporte(String matricula, int plazas) {
         super(matricula);
         this.plazas = plazas;
